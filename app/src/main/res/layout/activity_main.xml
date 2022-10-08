@@ -31,12 +31,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:navGraph="@navigation/mobile_navigation" />
 
-    <include
-        layout="@layout/fragment_content_cards"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        tools:layout_editor_absoluteX="115dp"
-        tools:layout_editor_absoluteY="401dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
