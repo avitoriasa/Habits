@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Habits</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Conteúdo</string>
+    <string name="title_notifications">Perfil</string>
+
+    <string name="theme1">bem-estar</string>
+    <string name="theme2">alimentação</string>
+    <string name="theme3">meio-ambiente</string>
+    <string name="theme4">comportamento</string>
+    <string name="theme5">reciclagem</string>
+    <string name="theme6">sociedade</string>
+    <string name="theme7">consumo</string>
+
+</resources>
